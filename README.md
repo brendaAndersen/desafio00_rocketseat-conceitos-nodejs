@@ -33,3 +33,9 @@ Este desafio consiste na criação de uma aplicação para gerenciar tarefas, fa
 - **Should be able to delete a todo**
 
 - **Should not be able to delete a non existing todo**
+
+## Resultado dos Testes
+
+<div>
+  <img src="https://user-images.githubusercontent.com/52722720/157582201-936727eb-3ced-43e9-ac28-bfbee7a4a055.png" width="350px" />
+</div>
